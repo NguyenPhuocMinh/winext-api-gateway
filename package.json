@@ -6,10 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "node fetch",
+    "winext"
+  ],
   "author": "Minh Nguyễn",
   "license": "ISC",
   "dependencies": {
+    "node-fetch": "^2.6.1",
     "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#1018f037dedbd3b1420a35524c8d6d237126e832"
   },
   "devDependencies": {
