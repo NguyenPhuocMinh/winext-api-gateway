@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#1018f037dedbd3b1420a35524c8d6d237126e832"
+    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#0b7f616865b3cc093eae4121cc3787f228a2b3bd"
   },
   "devDependencies": {
     "eslint": "^7.30.0",
