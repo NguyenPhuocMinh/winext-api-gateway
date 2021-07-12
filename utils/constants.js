@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  ERROR_KONG_STATUS: {
+  KONG_STATUS: {
     CREATED: 201,
     DUPLICATED: 409,
     SUCCESS: 200
