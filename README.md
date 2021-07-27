@@ -10,7 +10,6 @@
 ├── lib
 │   └── gateway.js
 ├── package.json
-├── tree.txt
 └── utils
     └── constants.js
 ```
