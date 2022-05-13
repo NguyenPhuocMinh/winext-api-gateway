@@ -1,7 +1,8 @@
 {
-  "name": "app-gateway",
+  "name": "winext-api-gateway",
   "version": "1.0.0",
-  "description": "Building api gateway",
+  "description": "Building api gateway connect with Kong",
+  "homepage": "https://github.com/NguyenPhuocMinh/winext-api-gateway",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
